@@ -1,9 +1,7 @@
 ## Hello Everybody 👋
 
 Ich bin ein einfacher Tellerwäscher mit einigen interessanten und kreativen Hobbies.  
-Eines davon ist Programmieren.  
-Im Beruf ist es ja so, dass man im Prinzip nichts **Eigenes** macht und in seiner Kreativität ziemlich eingeschränkt ist.  
-Es geht einfach nur darum, dass ein Unternehmen Geld macht.
+Eines davon ist Programmieren. Das Andere ist küntliche Intelligenz.
 
-Wenn man kreativ sein will, muss man seine eigenen Sachen machen!
-
+Programmieren ist faszinierend und spannend. Künstliche Intelligenz ist das noch viel mehr.
+Allerdings muss man auch mit künstlicher Intelligenz umgehen können. 
